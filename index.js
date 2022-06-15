@@ -1,1 +1,1 @@
-#It is just a JS
+It is just a JS
